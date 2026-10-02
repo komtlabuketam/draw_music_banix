@@ -4,136 +4,84 @@
       "ad_flow_script": "CTR_SPAM",
       "ad_key": [
         {
-          "name": "app_open_3_id",
+          "name": "app_open_id",
           "isEnabled": "true"
         },
         {
-          "name": "app_open_3_id1",
+          "name": "app_open_id1",
           "isEnabled": "true"
         },
         {
-          "name": "app_open_3_id2",
+          "name": "app_open_id2",
           "isEnabled": "true"
         },
         {
-          "name": "inter_tut_3_id",
+          "name": "inter_open_id",
           "isEnabled": "false"
         },
         {
-          "name": "native_tut_3_id",
+          "name": "native_full_open_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_splash_3_id",
+          "name": "native_full_main_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_splash_3_id",
+          "name": "native_full_tut_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_language_3_id",
+          "name": "inter_tut_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_language_3_id",
+          "name": "native_tut_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_language_3_id2",
+          "name": "inter_splash_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_language_3_id3",
+          "name": "banner_splash_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_home_3_id",
+          "name": "native_home_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_home_3_id",
+          "name": "native_home_id_1",
           "isEnabled": "true"
         },
         {
-          "name": "banner_home_3_id",
+          "name": "inter_home_id",
           "isEnabled": "true"
         },
         {
-          "name": "inter_mixer_3_id",
+          "name": "banner_home_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_mixer_3_id",
+          "name": "reward_home_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_mixer_3_id",
+          "name": "inter_language_id",
           "isEnabled": "true"
         },
         {
-          "name": "banner_music_3_id",
+          "name": "native_language_id",
           "isEnabled": "true"
         },
         {
-          "name": "native_music_3_id",
+          "name": "native_language_id_1",
           "isEnabled": "true"
         },
         {
-          "name": "banner_drumpad_3_id",
+          "name": "inter_draw_id",
           "isEnabled": "true"
-        },
-        {
-          "name": "inter_drumpad_3_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_ludwing_3_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "inter_ludwing_3_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_exit_3_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_drumpad_menu_3_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "inter_electric_drum_3_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "banner_electric_drum_3_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_full_3_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "inter_open_3_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_loading_3_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_media_left_3_id",
-          "isEnabled": "true"
-        },
-        {
-          "name": "native_info_3_id",
-          "isEnabled": "false"
-        },
-        {
-          "name": "native_info_3_id2",
-          "isEnabled": "false"
         }
       ]
     }
