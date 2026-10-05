@@ -17,7 +17,7 @@
         },
         {
           "name": "inter_open_id",
-          "isEnabled": "false"
+          "isEnabled": "true"
         },
         {
           "name": "native_full_open_id",
